@@ -1,9 +1,8 @@
-﻿# Feetech-FS5106R-3D-Model
-### Servo Reference Image
+﻿### Servo Real Image
 ![Servo Real](images/servo_real_img.jpg)
 
 ### 3D Model Render (v11)
-![Model v11](images/Serwo%20Feetech%20FS5106R%20v11.png)
+![Servo Model v11](images/Servo_Feetech_FS5106R_v11.png)
 
 ### 3D Model Render (v12)
-![Model v12](images/Serwo%20Feetech%20FS5106R%20v12.png)
+![Servo Model v12](images/Servo_Feetech_FS5106R_v12.png)
